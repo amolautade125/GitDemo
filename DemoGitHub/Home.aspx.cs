@@ -12,7 +12,9 @@ namespace DemoGitHub
         protected void Page_Load(object sender, EventArgs e)
         {
             var x = 10;
-            var y = x;
+            var y = 10;
+            var z = 10;
+            var a = 10;
         }
     }
 }
